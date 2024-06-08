@@ -1,0 +1,14 @@
+/Users/leonardorene/development/code/Deaftech/operadores_logicos/obj/Debug/net8.0/operadores_logicos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardorene/development/code/Deaftech/operadores_logicos/obj/Debug/net8.0/operadores_logicos.AssemblyInfoInputs.cache
+/Users/leonardorene/development/code/Deaftech/operadores_logicos/obj/Debug/net8.0/operadores_logicos.AssemblyInfo.cs
+/Users/leonardorene/development/code/Deaftech/operadores_logicos/obj/Debug/net8.0/operadores_logicos.csproj.CoreCompileInputs.cache
+/Users/leonardorene/development/code/Deaftech/operadores_logicos/bin/Debug/net8.0/operadores_logicos
+/Users/leonardorene/development/code/Deaftech/operadores_logicos/bin/Debug/net8.0/operadores_logicos.deps.json
+/Users/leonardorene/development/code/Deaftech/operadores_logicos/bin/Debug/net8.0/operadores_logicos.runtimeconfig.json
+/Users/leonardorene/development/code/Deaftech/operadores_logicos/bin/Debug/net8.0/operadores_logicos.dll
+/Users/leonardorene/development/code/Deaftech/operadores_logicos/bin/Debug/net8.0/operadores_logicos.pdb
+/Users/leonardorene/development/code/Deaftech/operadores_logicos/obj/Debug/net8.0/operadores_logicos.dll
+/Users/leonardorene/development/code/Deaftech/operadores_logicos/obj/Debug/net8.0/refint/operadores_logicos.dll
+/Users/leonardorene/development/code/Deaftech/operadores_logicos/obj/Debug/net8.0/operadores_logicos.pdb
+/Users/leonardorene/development/code/Deaftech/operadores_logicos/obj/Debug/net8.0/operadores_logicos.genruntimeconfig.cache
+/Users/leonardorene/development/code/Deaftech/operadores_logicos/obj/Debug/net8.0/ref/operadores_logicos.dll

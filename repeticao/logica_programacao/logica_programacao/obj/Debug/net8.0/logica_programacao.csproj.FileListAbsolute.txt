@@ -1,0 +1,14 @@
+/Users/leonardorene/development/code/Deaftech/logica_programacao/logica_programacao/bin/Debug/net8.0/logica_programacao
+/Users/leonardorene/development/code/Deaftech/logica_programacao/logica_programacao/bin/Debug/net8.0/logica_programacao.deps.json
+/Users/leonardorene/development/code/Deaftech/logica_programacao/logica_programacao/bin/Debug/net8.0/logica_programacao.runtimeconfig.json
+/Users/leonardorene/development/code/Deaftech/logica_programacao/logica_programacao/bin/Debug/net8.0/logica_programacao.dll
+/Users/leonardorene/development/code/Deaftech/logica_programacao/logica_programacao/bin/Debug/net8.0/logica_programacao.pdb
+/Users/leonardorene/development/code/Deaftech/logica_programacao/logica_programacao/obj/Debug/net8.0/logica_programacao.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardorene/development/code/Deaftech/logica_programacao/logica_programacao/obj/Debug/net8.0/logica_programacao.AssemblyInfoInputs.cache
+/Users/leonardorene/development/code/Deaftech/logica_programacao/logica_programacao/obj/Debug/net8.0/logica_programacao.AssemblyInfo.cs
+/Users/leonardorene/development/code/Deaftech/logica_programacao/logica_programacao/obj/Debug/net8.0/logica_programacao.csproj.CoreCompileInputs.cache
+/Users/leonardorene/development/code/Deaftech/logica_programacao/logica_programacao/obj/Debug/net8.0/logica_programacao.dll
+/Users/leonardorene/development/code/Deaftech/logica_programacao/logica_programacao/obj/Debug/net8.0/refint/logica_programacao.dll
+/Users/leonardorene/development/code/Deaftech/logica_programacao/logica_programacao/obj/Debug/net8.0/logica_programacao.pdb
+/Users/leonardorene/development/code/Deaftech/logica_programacao/logica_programacao/obj/Debug/net8.0/logica_programacao.genruntimeconfig.cache
+/Users/leonardorene/development/code/Deaftech/logica_programacao/logica_programacao/obj/Debug/net8.0/ref/logica_programacao.dll

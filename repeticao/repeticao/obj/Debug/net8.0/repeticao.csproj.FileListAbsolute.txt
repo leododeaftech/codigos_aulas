@@ -1,0 +1,14 @@
+/Users/leonardorene/development/code/Deaftech/repeticao/bin/Debug/net8.0/repeticao
+/Users/leonardorene/development/code/Deaftech/repeticao/bin/Debug/net8.0/repeticao.deps.json
+/Users/leonardorene/development/code/Deaftech/repeticao/bin/Debug/net8.0/repeticao.runtimeconfig.json
+/Users/leonardorene/development/code/Deaftech/repeticao/bin/Debug/net8.0/repeticao.dll
+/Users/leonardorene/development/code/Deaftech/repeticao/bin/Debug/net8.0/repeticao.pdb
+/Users/leonardorene/development/code/Deaftech/repeticao/obj/Debug/net8.0/repeticao.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardorene/development/code/Deaftech/repeticao/obj/Debug/net8.0/repeticao.AssemblyInfoInputs.cache
+/Users/leonardorene/development/code/Deaftech/repeticao/obj/Debug/net8.0/repeticao.AssemblyInfo.cs
+/Users/leonardorene/development/code/Deaftech/repeticao/obj/Debug/net8.0/repeticao.csproj.CoreCompileInputs.cache
+/Users/leonardorene/development/code/Deaftech/repeticao/obj/Debug/net8.0/repeticao.dll
+/Users/leonardorene/development/code/Deaftech/repeticao/obj/Debug/net8.0/refint/repeticao.dll
+/Users/leonardorene/development/code/Deaftech/repeticao/obj/Debug/net8.0/repeticao.pdb
+/Users/leonardorene/development/code/Deaftech/repeticao/obj/Debug/net8.0/repeticao.genruntimeconfig.cache
+/Users/leonardorene/development/code/Deaftech/repeticao/obj/Debug/net8.0/ref/repeticao.dll
