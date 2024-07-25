@@ -1,0 +1,15 @@
+/Users/leonardorene/development/code/Deaftech/codigos_aulas/arrays_foreach/bin/Debug/net8.0/arrays_foreach
+/Users/leonardorene/development/code/Deaftech/codigos_aulas/arrays_foreach/bin/Debug/net8.0/arrays_foreach.deps.json
+/Users/leonardorene/development/code/Deaftech/codigos_aulas/arrays_foreach/bin/Debug/net8.0/arrays_foreach.runtimeconfig.json
+/Users/leonardorene/development/code/Deaftech/codigos_aulas/arrays_foreach/bin/Debug/net8.0/arrays_foreach.dll
+/Users/leonardorene/development/code/Deaftech/codigos_aulas/arrays_foreach/bin/Debug/net8.0/arrays_foreach.pdb
+/Users/leonardorene/development/code/Deaftech/codigos_aulas/arrays_foreach/obj/Debug/net8.0/arrays_foreach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardorene/development/code/Deaftech/codigos_aulas/arrays_foreach/obj/Debug/net8.0/arrays_foreach.AssemblyInfoInputs.cache
+/Users/leonardorene/development/code/Deaftech/codigos_aulas/arrays_foreach/obj/Debug/net8.0/arrays_foreach.AssemblyInfo.cs
+/Users/leonardorene/development/code/Deaftech/codigos_aulas/arrays_foreach/obj/Debug/net8.0/arrays_foreach.csproj.CoreCompileInputs.cache
+/Users/leonardorene/development/code/Deaftech/codigos_aulas/arrays_foreach/obj/Debug/net8.0/arrays_foreach.sourcelink.json
+/Users/leonardorene/development/code/Deaftech/codigos_aulas/arrays_foreach/obj/Debug/net8.0/arrays_foreach.dll
+/Users/leonardorene/development/code/Deaftech/codigos_aulas/arrays_foreach/obj/Debug/net8.0/refint/arrays_foreach.dll
+/Users/leonardorene/development/code/Deaftech/codigos_aulas/arrays_foreach/obj/Debug/net8.0/arrays_foreach.pdb
+/Users/leonardorene/development/code/Deaftech/codigos_aulas/arrays_foreach/obj/Debug/net8.0/arrays_foreach.genruntimeconfig.cache
+/Users/leonardorene/development/code/Deaftech/codigos_aulas/arrays_foreach/obj/Debug/net8.0/ref/arrays_foreach.dll
